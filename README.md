@@ -1,4 +1,4 @@
-# Mobile Healthcare App
+# MedicationApp
 
 ## Description
 This project is a mobile healthcare application aimed at users in the healthcare system introduced in the first practice of the course. It allows users to consult prescribed medications, mark the medications they've taken, and receive notifications for upcoming doses.
